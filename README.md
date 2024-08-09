@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma solução para o desafio proposto pela DIO (Digital Innovation One) onde o objetivo é classificar o nível de um herói baseado em sua quantidade de experiência (XP). A classificação segue um sistema de níveis que vai desde **Ferro** até **Radiante**.
+Este projeto é uma solução para o desafio proposto pela DIO (Digital Innovation One) em que o objetivo é classificar o nível de um herói baseado em sua quantidade de experiência (XP). A classificação segue um sistema de níveis que vai desde **Ferro** até **Radiante**.
 
 ## Estrutura do Projeto
 
